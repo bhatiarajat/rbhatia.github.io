@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "neon" # "default" , "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rajat Bhatia"
+title                    : "Personal blog"
 title_separator          : "-"
 name                     : "Rajat Bhatia"
 description              : "personal blog"
