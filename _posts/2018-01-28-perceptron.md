@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Test Post"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [test post, personal blog, rajat bhatia]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Rajat Bhatia"
 mathjax: "true"
 ---
 
