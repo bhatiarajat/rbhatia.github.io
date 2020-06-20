@@ -21,7 +21,7 @@
     display: flex;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: $Helvetica Neue; # $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -50,8 +50,8 @@
 
 .masthead__menu {
   float: left;
-  margin-left: .3;
-  margin-right: .3;
+  margin-left: 0;
+  margin-right: 0;
   width: 50%;
   clear: both;
 
