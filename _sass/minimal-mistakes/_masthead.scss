@@ -15,8 +15,8 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0.5em;
-    max-width: 100%;
+    padding: 0.4em;
+    max-width: 50%;
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: justify;
@@ -44,15 +44,15 @@
   align-self: stretch;
   -webkit-box-align: center;
   align-items: center;
-  font-weight: bold;
+  font-weight: normal;
   z-index: 20;
 }
 
 .masthead__menu {
   float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
+  margin-left: 2;
+  margin-right: 2;
+  width: 50%;
   clear: both;
 
   .site-nav {
@@ -78,6 +78,6 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 400;
   }
 }
