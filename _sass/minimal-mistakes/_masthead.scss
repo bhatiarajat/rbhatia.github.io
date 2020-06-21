@@ -3,7 +3,7 @@
    ========================================================================== */
 .masthead {
   position: relative;
-  border-bottom: 3px solid $border-color;
+  border-bottom: 5px solid black;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -13,8 +13,8 @@
      @include clearfix;
      margin-left: auto;
      margin-right: auto;
-     padding: 0.5em;
-     padding: 0.5em;
+     padding: 0.25em;
+     padding: 0.25em;
      max-width: 100%;
      display: -webkit-box;
      display: flex;
