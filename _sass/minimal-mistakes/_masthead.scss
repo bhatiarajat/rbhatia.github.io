@@ -21,7 +21,7 @@
     -webkit-box-pack: justify;
     justify-content: space-between;
     font-family: $helvetica /* $sans-serif-narrow */;
-     font-size: small;
+     font-size: medium;
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -41,7 +41,7 @@
   -webkit-box-align: center;
   align-items: center;
   font-weight: bold;
-   font-size: small;
+   font-size: medium;
   z-index: 20;
 }
 .masthead__menu {
