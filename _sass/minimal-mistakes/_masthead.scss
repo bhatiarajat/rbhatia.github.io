@@ -21,6 +21,7 @@
     -webkit-box-pack: justify;
     justify-content: space-between;
     font-family: $helvetica /* $sans-serif-narrow */;
+     font-size: small;
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -40,6 +41,7 @@
   -webkit-box-align: center;
   align-items: center;
   font-weight: bold;
+   font-size: small;
   z-index: 20;
 }
 .masthead__menu {
@@ -48,6 +50,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+   font-size: small;
   .site-nav {
     margin-left: 0;
     @include breakpoint($small) {
