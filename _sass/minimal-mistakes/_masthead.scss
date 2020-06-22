@@ -3,7 +3,7 @@
    ========================================================================== */
 .masthead {
   position: relative;
-  border-bottom: 5px solid black;
+  border-bottom: 2px solid black;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -20,7 +20,7 @@
      display: flex;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    font-family: Helvetica /* $sans-serif-narrow */;
+    font-family: $helvetica /* $sans-serif-narrow */;
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
