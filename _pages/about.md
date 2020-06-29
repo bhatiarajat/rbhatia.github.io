@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Student, interested in technology, math, and financial markets. Occassionally post my thoughts/ideas.
+Student, interested in technology, economics, sustainability. Occassionally add new posts here.
