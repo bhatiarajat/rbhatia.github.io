@@ -8,10 +8,10 @@ main:
     url: /projects/
   - title: "Links"
     url: /links/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Quotes"
+    url: /quotes/
   # - title: "Sample Posts"
-  #   url: /year-archive/
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
