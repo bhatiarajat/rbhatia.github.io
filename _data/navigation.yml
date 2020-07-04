@@ -8,8 +8,8 @@ main:
     url: /projects/
   - title: "Links"
     url: /links/
-  - title: "Quotes"
-    url: /quotes/
+  # - title: "Quotes"
+  #   url: /quotes/
   # - title: "Sample Posts"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
